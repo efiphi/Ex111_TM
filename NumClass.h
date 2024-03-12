@@ -17,7 +17,7 @@ int factorial(int);
 
 int countDigits(int);
 
-int isArmstrong2(int, int);
+int isArmstrongRecursive(int, int);
 
 
 
